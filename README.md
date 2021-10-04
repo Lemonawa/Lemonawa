@@ -1,3 +1,6 @@
+![](https://github-readme-stats.vercel.app/api?username=Lemonawa)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonawa)]
+
 - 👋 Hi, I’m @Lemonawa
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
