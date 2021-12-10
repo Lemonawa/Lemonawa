@@ -1,5 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Lemonawa)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonawa)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonawa)  
+![](https://raw.githubusercontent.com/Lemonawa/Lemonawa/main/assets/github-contribution-grid-snake.svg)
 
 
 <!---
