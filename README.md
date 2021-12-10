@@ -1,13 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Lemonawa)
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonawa)
 
-- 👋 Hi, I’m @Lemonawa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Lemonawa/Lemonawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
