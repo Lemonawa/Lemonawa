@@ -14,10 +14,10 @@ function generateProgressBar() {
 }
 
 const readme = `\
-### Hi there 👋
+### Hi there 👋  I'm Lemonawa  
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ---
-⏰ Updated on ${new Date().toUTCString()}
+⏰ Updated on ${new Date().toCSTString()}
 ---
 ![](https://github-readme-stats.vercel.app/api?username=Lemonawa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonawa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
