@@ -24,3 +24,4 @@ jobs:
           git config user.email '69106050+github-actions[bot]@users.noreply.github.com'
           git commit -am "bot: update README.md automatically"
           git push
+## user.email can be find at https://github.com/settings/emails    Primary email address
