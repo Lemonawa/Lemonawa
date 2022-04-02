@@ -19,10 +19,10 @@ const readme = `\
 ---
 ⏰ Updated on ${new Date().toUTCString()}
 ---
-![](https://github-readme-stats.vercel.app/api?username=Lemonawa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonawa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
+Just a middle school student from China...  
+Learning Python, Html and more.
 ![](https://raw.githubusercontent.com/Lemonawa/Lemonawa/main/assets/github-contribution-grid-snake.svg)
-# Look How Hard Work The Bot Was
+# ~~Look how hard this robot~~
 ![Alt](https://repobeats.axiom.co/api/embed/e02bb0793bf59235fcd0d02d38bf634123fc3a78.svg "Repobeats analytics image")
 
 \
