@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Lemonawa  
-⏳ Year progress { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 25.41 %
+⏳ Year progress { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 25.50 %
 ---
-⏰ Updated on Sun, 03 Apr 2022 18:21:07 GMT
+⏰ Updated on Mon, 04 Apr 2022 01:37:23 GMT
 ---
 Just a middle school student from China...  
 Learning Python, Html and more.
