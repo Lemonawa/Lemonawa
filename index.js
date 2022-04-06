@@ -15,8 +15,9 @@ function generateProgressBar() {
 // README.md Start
 const readme = `\
 ### Hi there
-14岁，是学生
-在学Html/css/js
+14岁，是学生  
+~~Also a gay~~
+在学Html/css/js  
 ⏳ 今年已经过去了 ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ![](https://raw.githubusercontent.com/Lemonawa/Lemonawa/main/assets/github-contribution-grid-snake.svg)
 ###### ~~Look how hard this robot~~
