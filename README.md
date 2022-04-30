@@ -1,9 +1,9 @@
-### Hi there 🖐️
-14岁，是学生  
-~~Also a gay~~  
-在学Html/css/js  
-⏳ 今年已经过去了 { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 32.68 %
-![](https://raw.githubusercontent.com/Lemonawa/Lemonawa/main/assets/github-contribution-grid-snake.svg)
-###### ~~Look how hard this robot~~
-![Alt](https://repobeats.axiom.co/api/embed/e02bb0793bf59235fcd0d02d38bf634123fc3a78.svg "Repobeats analytics image")
+# Hi there 🖐️ 
+## About me
+* 👨‍🎓 14-year-old Middle School Student
+* 🖥️ Shell, Python, HTML Programer
+* 🌐 zh-CN, zh-TW, en-US Translater
+* Ⓜ️ Member of Misaka-Blog, Contribor of xray-core, WindTerm, umami
 
+![Lemonawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemonawa&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonawa)
