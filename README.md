@@ -1,4 +1,3 @@
-# Hi there 🖐️ 
 ## About me
 * 👨‍🎓 14-year-old Middle School Student
 * 🖥️ Shell, Python, HTML Programer
