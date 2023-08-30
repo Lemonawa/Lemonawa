@@ -9,5 +9,5 @@
 * 🔒 Keybase: https://keybase.io/Lemonawa
 * 🔑 GPG Key: https://github.com/Lemonawa.gpg ,Use `curl https://github.com/Lemonawa.gpg | gpg --import` to import my key
 ## Sponsors
-* 🪙 XMR: `4B46v9jC2AVeNdoLbSWSmcUyYr5y6BLCqBvmvwgpLpdkCHNfUhTPZRfY7cm5k9r4BxDSq4iEZy8tLRb6qAJwYSwi9LKFp5y`
+* 🪙 USDT: `TPTXD8BfrBT7s7TDwwnRfa37wcN5QzNgyX`
 * 💰 afadian: https://afdian.net/a/Lemonawa
