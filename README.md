@@ -9,5 +9,5 @@
 * 🔒 Keybase: https://keybase.io/Lemonawa
 * 🔑 GPG Key: https://github.com/Lemonawa.gpg ,Use `curl https://github.com/Lemonawa.gpg | gpg --import` to import my key
 ## Sponsors
-* 🪙 USDT: `TPTXD8BfrBT7s7TDwwnRfa37wcN5QzNgyX`
+* 🪙 TRON(USDT/TRX|TRC20): `TPTXD8BfrBT7s7TDwwnRfa37wcN5QzNgyX`
 * 💰 afadian: https://afdian.net/a/Lemonawa
