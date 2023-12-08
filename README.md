@@ -1,5 +1,5 @@
 ## About me
-* 👨‍🎓 15-year-old Middle School Student
+* 👨‍🎓 16-year-old Middle School Student
 * 🖥️ Shell, Python, HTML Programer
 * 🌐 zh-CN, zh-TW, en-US Translater
 * Ⓜ️ Contribor of xray-core, WindTerm, umami, YukkiMusicBot
