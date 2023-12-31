@@ -1,8 +1,8 @@
 ## About me
 * 👨‍🎓 16-year-old Middle School Student
 * 🖥️ Shell, Python, HTML Programer
-* 🌐 zh-CN, zh-TW, en-US Translater
-* Ⓜ️ Contribor of xray-core, WindTerm, umami, YukkiMusicBot
+* 🌐 zh-CN, zh-TW, en-US Translator
+* Ⓜ️ Contributor of xray-core, WindTerm, umami, YukkiMusicBot
 ## Contacts
 * 📧 Email: lemonawa1209@gmail.com
 * ✈️ Telegram: https://t.me/Lemonawa ,And my Group: https://t.me/LemonawaGroup
