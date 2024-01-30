@@ -1,10 +1,10 @@
 ## About me
-* 👨‍🎓 16-year-old Middle School Student
+* 👨‍🎓 16-year-old High School Student
 * 🖥️ Shell, Python, HTML Programer
 * 🌐 zh-CN, zh-TW, en-US Translator
 * Ⓜ️ Contributor of xray-core, WindTerm, umami, YukkiMusicBot
 ## Contacts
-* 📧 Email: lemonawa1209@gmail.com
+* 📧 Email: neko@lma.moe
 * ✈️ Discord: reallemonawa ,And my server: https://discord.gg/ac9ATy7QkC
 * 🔑 GPG Key: https://github.com/Lemonawa.gpg ,Use `curl https://github.com/Lemonawa.gpg | gpg --import` to import my key
 ## Sponsors
