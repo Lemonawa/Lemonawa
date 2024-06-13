@@ -1,8 +1,6 @@
 ## About me
 * 👨‍🎓 16-year-old High School Student
-* 🖥️ Shell, Python, HTML Programer
-* 🌐 zh-CN, zh-TW, en-US Translator
-* Ⓜ️ Contributor of xray-core, WindTerm, umami, YukkiMusicBot
+* 🖥️ Rust, Shell, Python
 ## Contacts
 * 📧 Email: neko@lma.moe
 * ✈️ Discord: reallemonawa ,And my server: https://discord.gg/ac9ATy7QkC
