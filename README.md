@@ -1,5 +1,5 @@
 ## About me
-* 👨‍🎓 16-year-old High School Student
+* 👨‍🎓 17-year-old High School Student
 * 🖥️ Rust, Shell, Python
 ## Contacts
 * 📧 Email: neko@lma.moe
